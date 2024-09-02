@@ -18,9 +18,9 @@ I'm a passionate **Software Developer** with a strong background in **Machine Le
 - **Version Control**: Git, GitHub
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=arslan-sb&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslan-sb&layout=compact&theme=radical)
 
 ## 🏆 Achievements
 - 🥇 [Any certifications, competitions, or notable achievements]
