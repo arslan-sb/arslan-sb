@@ -36,9 +36,9 @@ I'm a passionate **Software Developer** with a strong background in **Machine Le
 -->
 
 ## 📫 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/arslan-shaukat-12503a155/))
+- [LinkedIn](https://www.linkedin.com/in/arslanshaukatsb/)
 - [Twitter](https://twitter.com/arslanshaukatsb/)
-- [Personal Website](https://arslan-sb.github.io/)
+- [Personal Website](https://arslanshaukat.online/)
 
 <!--
 **arslan-sb/arslan-sb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
