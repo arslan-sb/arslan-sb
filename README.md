@@ -4,7 +4,7 @@
 I'm a passionate **Software Developer** with a strong background in **Machine Learning**, **Web Development**, and **Flutter App Development**. I love solving real-world problems through code and continuously learning new technologies.
 
 <!--
-- 🌱 I’m currently learning: Reac
+- 🌱 I’m currently learning: React
 - 👯 I’m looking to collaborate on: [Open source projects or areas you're interested in]
 - 🤔 I’m looking for help with: [Any project or topic you need help with]
 - 💬 Ask me about: [Topics you're good at]
