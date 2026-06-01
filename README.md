@@ -1,56 +1,62 @@
-# Hi there, I'm Arslan! 👋
+# Hi, I'm Arslan 👋
 
-## 🚀 About Me
-I'm a passionate **Software Developer** with a strong background in **Machine Learning**, **Web Development**, and **Flutter App Development**. I love solving real-world problems through code and continuously learning new technologies.
+🎓 **MSc Computer Science @ TU Dresden** — focusing on **Machine Learning & Computer Vision**, **High-Performance Computing**, and **Systems Architecture**.
 
-<!--
-- 🌱 I’m currently learning: React
-- 👯 I’m looking to collaborate on: [Open source projects or areas you're interested in]
-- 🤔 I’m looking for help with: [Any project or topic you need help with]
-- 💬 Ask me about: [Topics you're good at]
-- 📫 How to reach me: [arslanshaukat009@gmail.com]
-- ⚡ Fun fact: [A fun fact about you]
--->
+Before Dresden I spent a few years shipping full-stack and AI products — RAG pipelines, audio ML, and an AI-driven stock forecasting platform. These days I'm splitting my time between applied ML and going deep on low-level systems (operating systems, embedded multicore, parallel computing).
 
-## 🛠️ Languages and Tools:
-- **Programming Languages**: Python, JavaScript, C/C++, Kotlin, Dart
-- **Web Development**: Django, React, HTML, CSS, Celery, Redis
-- **Machine Learning**: TensorFlow, PyTorch, scikit-learn, Pandas
-- **Databases**: MySQL, PostgreSQL, SQLite, GraphQL
-- **Version Control**: Git, GitHub
+```text
+📍 Dresden, Germany (via Islamabad, Pakistan)
+🔭 Currently working on : OS construction, embedded multicore architectures, ML for robotics
+🌱 Currently learning   : HPC, computer vision, the guts of operating systems
+💬 Ask me about         : RAG systems, full-stack (React/Django/Next.js), AI/ML pipelines
+⚡ Fun fact             : I went from web/AI dev to writing kernel-level C++ for fun
+```
+
+## 🛠️ Tech I work with
+
+**Languages**
+Python · C/C++ · JavaScript · TypeScript · Dart · SQL
+
+**ML / AI**
+PyTorch · scikit-learn · Hugging Face · OpenCV · YOLO · RAG pipelines · FinBERT · Stable Diffusion
+
+**Web & Full-Stack**
+React · Next.js · Django · FastAPI · Flask · Node.js · Tailwind CSS · Flutter
+
+**Systems & HPC**
+Linux · Docker · parallel & multicore programming · MuJoCo · embedded architectures
+
+**Data & Cloud**
+PostgreSQL · MongoDB · MySQL · Redis · Celery · AWS (EC2, S3, SES) · Vercel
+
+**Tooling**
+Git/GitHub · n8n · Jupyter
+
+## 🚀 Selected Projects
+
+- **StockGenie** — Stock-trading web app (React + Django + PostgreSQL) with AI-driven forecasting, FinBERT sentiment analysis, and real-time market data via Redis & Celery.
+- **Rythmix** — Full-stack music platform (Next.js) with WaveSurfer audio editing and an LLM/custom-model pipeline for generating lyrics, instrumentals, and vocals.
+- **Global Talk** — Real-time multilingual chat (Flutter + Python + Firebase) with Google TTS and EN↔DE NLP translation.
+- **Resume Analyzer** — NLP tool that scores CVs against job requirements using cosine similarity and ML.
+- **Crop Recommendation System** — Recommendation engine (decision trees / random forests) served through Streamlit.
+
+> 🔗 Repo links: drop the URLs in once your repos are public — e.g. `[StockGenie](https://github.com/arslan-sb/stockgenie)`
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=arslan-sb&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslan-sb&layout=compact&theme=radical)
+![Arslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arslan-sb&show_icons=true&count_private=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arslan-sb&layout=compact&theme=tokyonight)
 
-<!--
-## 🏆 Achievements
-- 🥇 [Any certifications, competitions, or notable achievements]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arslan-sb&theme=tokyonight)
 
-## 💼 Projects
-- **[Project Name]** - [Short description of the project]
-  - [Link to project repository or demo]
-- **[Project Name]** - [Short description of the project]
-  - [Link to project repository or demo]
--->
+## 📫 Connect
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/arslanshaukatsb/)
-- [Twitter](https://twitter.com/arslanshaukatsb/)
-- [Personal Website](https://arslanshaukat.online/)
+- 🌐 Website — [arslan-shaukat.de](https://www.arslan-shaukat.de/)
+- 💼 LinkedIn — [in/arslanshaukatsb](https://www.linkedin.com/in/arslanshaukatsb/)
+- 🐦 X / Twitter — [@arslanshaukatsb](https://twitter.com/arslanshaukatsb/)
+- 📧 Email — arslanshaukat914@gmail.com
 
 <!--
-**arslan-sb/arslan-sb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Repo note: this README lives in arslan-sb/arslan-sb and renders on your profile.
+Theme options for the stat cards: radical, tokyonight, dracula, gruvbox, github_dark, merko.
 -->
