@@ -5,7 +5,7 @@
 Before Dresden I spent a few years shipping full-stack and AI products — RAG pipelines, audio ML, and an AI-driven stock forecasting platform. These days I'm splitting my time between applied ML and going deep on low-level systems (operating systems, embedded multicore, parallel computing).
 
 ```text
-📍 Dresden, Germany (via Islamabad, Pakistan)
+📍 Dresden, Germany 
 🔭 Currently working on : OS construction, embedded multicore architectures, ML for robotics
 🌱 Currently learning   : HPC, computer vision, the guts of operating systems
 💬 Ask me about         : RAG systems, full-stack (React/Django/Next.js), AI/ML pipelines
